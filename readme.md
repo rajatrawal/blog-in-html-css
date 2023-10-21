@@ -8,7 +8,7 @@ Welcome to the "Blog in HTML & CSS" project! This beginner-friendly website is b
 
 ## Website Preview
 
-![Blog Website Screenshot](https://github.com/rajatrawal/blog-in-html-css/assets/home.PNG)
+![home](https://github.com/rajatrawal/blog-in-html-css/assets/72153827/598109e8-8e39-4d30-b78f-6cf8c72e6afe)
 
 ## Live Website
 
